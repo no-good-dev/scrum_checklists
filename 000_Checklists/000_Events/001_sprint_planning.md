@@ -9,5 +9,4 @@
 | 1 | Sprint goal defined |
 | 2 | Product Backlog Items selected |
 | 3 | For each Product Backlog Item: a plan on how to create an Increment that meets the DoD |
-|Done|--||
-
+|Done|--|
