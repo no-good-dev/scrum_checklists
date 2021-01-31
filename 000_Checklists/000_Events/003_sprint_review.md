@@ -6,6 +6,7 @@
 
 >The Sprint Review is a working session, avoid limiting to a presentation.
 
+|#|Check|
 |--|--|
 | 0 | Accomplishments reviewed |
 | 1 | Changes in the environment reviewed |
