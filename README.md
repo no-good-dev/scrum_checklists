@@ -7,9 +7,17 @@ A collection of Checklists for Scrum events, roles, and performance assessment.
 Just clone this repository to your local computer. 
 Adapt the templates to our own requirements.
 
-##License
+##License & Credits
 
-No license, just use it!
+"Feature Team Primer by Craig Larman and Bas Vodde" Copyright(c) 2010 Craig Larman and BasVodde All Rights Reserved.
+
+"The Unofficial Scrum Checklist" belongs to Henrik Kniberg https://www.crisp.se/gratis-material-och-guider/scrum-checklist.
+
+"An Example Checklist for Scrum Masters" Copyright © 2007-2016 Michael James. All Rights Reserved.
+
+"ScrumButt Test" © 2011 Jeff Sutherland, Dan Greening
+
+All other files belong to me and are free to use and modify for personal and commercial purposes.
 
 ##Join me
 
