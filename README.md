@@ -1,13 +1,13 @@
-#Scrum Checklists
+# Scrum Checklists
 
 A collection of Checklists for Scrum events, roles, and performance assessment.
 
-##How to use
+## How to use
 
 Just clone this repository to your local computer. 
 Adapt the templates to our own requirements.
 
-##License & Credits
+## License & Credits
 
 "Feature Team Primer by Craig Larman and Bas Vodde" Copyright(c) 2010 Craig Larman and BasVodde All Rights Reserved.
 
@@ -19,7 +19,7 @@ Adapt the templates to our own requirements.
 
 All other files belong to me and are free to use and modify for personal and commercial purposes.
 
-##Join me
+## Join me
 
 [Linkedin](https://www.linkedin.com/in/c%C3%A9sar-b-4a4a6219b/)
 
